@@ -1,0 +1,322 @@
+#;TITLE;ARTIST;RELEASE;BPM;ENERGY;DANCE;LOUD;VALENCE;LENGTH;ACOUSTIC;POP.
+1;A Lady Of A Certain Age;The Divine Comedy;27/10/2006;88;51;44;-11;39;5:50;80;12
+2;"Common People - Full Length Version; Album Version";Pulp;1/1/2002;146;90;31;-5;49;5:50;1;57
+3;Disco 2000;Pulp;30/10/1995;133;93;57;-6;54;4:34;1;55
+4;Death II;Pulp;19/6/1992;124;55;72;-14;93;5:36;2;16
+5;True Faith - '94;New Order;1/1/1994;118;91;61;-4;97;5:36;2;53
+6;I Want The World To Stop;Belle & Sebastian;8/10/2010;150;79;59;-7;54;4:34;0;45
+7;Another Sunny Day;Belle & Sebastian;2006;156;78;40;-5;85;4:04;0;50
+8;All My Little Words;The Magnetic Fields;1999;106;52;48;-8;41;2:46;75;35
+9;Where The Dreams Go To Die;John Grant;19/4/2010;115;34;48;-7;12;6:04;73;30
+10;Queen Of Denmark;John Grant;19/4/2010;100;29;47;-9;38;4:49;77;32
+11;Marz;John Grant;19/4/2010;120;38;53;-11;39;3:58;36;38
+12;There Is A Light That Never Goes Out;The Smiths;14/7/2009;136;69;47;-10;83;4:03;1;48
+13;Post Break-Up Sex;The Vaccines;11/3/2011;137;90;40;-4;56;2:54;0;56
+14;Wetsuit;The Vaccines;11/3/2011;121;74;47;-6;24;3:50;0;54
+15;I Always Knew;The Vaccines;31/8/2012;150;87;39;-3;39;3:34;0;51
+16;Where Is My Mind?;Pixies;1997;82;60;51;-8;18;3:52;2;67
+17;Observations;The Raveonettes;10/9/2012;123;65;43;-4;13;4:30;11;26
+18;Be My Baby;The Ronettes;22/2/2011;130;77;51;-7;81;2:41;18;67
+19;Helplessness Blues;Fleet Foxes;2/5/2011;125;46;33;-7;21;5:03;8;48
+20;Crown Of Love;Arcade Fire;2004;103;65;32;-6;27;4:42;6;41
+21;June Hymn;The Decemberists;12/1/2011;98;37;59;-6;18;3:58;53;30
+22;I Spy;Pulp;30/10/1995;130;90;51;-7;17;5:55;0;30
+23;Bloodbuzz Ohio;The National;22/11/2010;157;83;39;-6;67;4:36;6;57
+24;Nantes;Beirut;8/10/2007;131;53;54;-10;65;3:50;79;57
+25;The Mariner's Revenge Song;The Decemberists;2005;84;58;39;-5;47;8:46;25;0
+26;San Francisco;Foxygen;2013;117;65;62;-8;88;3:48;25;7
+27;Maps;Yeah Yeah Yeahs;1/1/2008;120;95;54;-6;21;3:34;0;40
+28;Nightcall;Kavinsky;1/1/2013;91;84;54;-5;44;4:17;1;63
+29;Holocene;Bon Iver;21/5/2011;148;31;38;-14;16;5:37;94;67
+30;Jar of Hearts;Christina Perri;10/5/2011;75;35;35;-6;9;4:07;73;71
+31;1973;James Blunt;17/9/2007;123;67;72;-8;76;4:40;7;63
+32;Zombie;The Cranberries;1994;167;65;31;-9;32;5:06;2;69
+33;What's Up?;4 Non Blondes;1/1/1992;135;57;57;-10;49;4:55;16;70
+34;Sweet Dreams (Are Made of This);Eurythmics;10/12/2007;126;94;71;-3;67;3:32;4;60
+35;God Help the Girl;God Help The Girl;22/6/2009;145;62;61;-10;76;3:23;25;31
+36;Myth;Beach House;14/5/2012;142;71;45;-6;41;4:19;3;54
+37;Zebra;The Magnetic Fields;1999;183;27;41;-7;48;2:16;77;14
+38;La noy?e;Yann Tiersen;23/4/2001;139;21;53;-9;95;2:03;83;20
+39;A Real Hero;College;11/1/2010;112;43;72;-9;37;4:28;83;0
+40;Bulletproof;La Roux;2009;123;88;67;-3;66;3:26;0;59
+41;Primadonna;Marina and the Diamonds;2011;128;69;66;-3;42;3:41;9;46
+42;Littlest Things;Lily Allen;16/10/2012;164;34;56;-15;57;2:58;87;34
+43;Ase Me Na Bo;Maraveyas ileg?l;18/12/2009;80;34;79;-10;79;3:22;42;27
+44;To Kalokeri Efige;Maraveyas ileg?l;23/3/2012;96;61;60;-6;87;4:26;65;17
+45;Under Cover of Darkness;The Strokes;18/3/2011;200;78;36;-3;59;3:56;0;65
+46;Home;Edward Sharpe & The Magnetic Zeros;13/7/2009;112;59;55;-7;13;5:06;32;70
+47;Dog Days Are Over;Florence + The Machine;2009;150;84;50;-5;23;4:13;4;46
+48;Rasputin;Boney M.;14/3/1994;126;75;69;-11;97;3:41;46;55
+49;Enigma (Give A Bit Of Mmh To Me);Amanda Lear;1978;116;64;68;-13;88;5:10;13;29
+50;I'm Gonna Be (500 Miles);The Proclaimers;1/9/2003;132;44;87;-9;79;3:39;17;73
+51;Smells Like Teen Spirit;Nirvana;1/1/2002;117;88;48;-6;81;5:01;0;68
+52;No Stress - Original Club Mix;Laurent Wolf;16/5/2013;130;73;87;-3;85;6:59;5;36
+53;California Dreaming;The Mamas & The Papas;10/12/2009;120;75;50;-10;51;2:23;5;2
+54;Dust In the Wind;Kansas;1984;94;15;49;-19;39;3:25;32;12
+55;Boat On A River;Styx;30/11/1995;176;52;44;-8;49;3:12;18;6
+56;She's A Rainbow;The Rolling Stones;1/1/2012;109;76;48;-10;52;4:12;44;5
+57;Come On Eileen;Dexys Midnight Runners;2007;108;56;42;-12;94;4:01;19;7
+58;Skinny Love;Bon Iver;8/7/2007;77;26;59;-14;12;3:59;85;25
+59;The Logical Song;Supertramp;1/1/1990;120;67;63;-9;72;4:10;61;54
+60;She;Elvis Costello;1/1/1999;131;33;34;-10;26;3:06;52;48
+61;Kaw-Liga;Hank Williams, Jr.;1982;106;61;74;-15;73;4:23;13;1
+62;Creep;Radiohead;7/4/2008;92;43;52;-10;10;3:59;1;22
+63;No Surprises;Radiohead;17/6/1997;76;41;27;-10;11;3:49;5;26
+64;Karma Police;Radiohead;7/4/2008;75;53;41;-9;34;4:22;9;19
+65;Paranoid Android;Radiohead;17/6/1997;126;76;33;-9;26;6:24;3;21
+66;In The Aeroplane Over The Sea;Neutral Milk Hotel;1998;94;72;26;-5;21;3:23;33;47
+67;Oh, Carol;Neil Sedaka;1/7/2007;133;75;60;-8;87;2:17;77;4
+68;Reflektor;Arcade Fire;2/4/2014;112;71;59;-9;66;7:34;4;43
+69;Ohi Pia Erotes;Kore. Idro.;20/2/2006;71;49;45;-7;15;3:50;64;7
+70;Tora Pou Den Eho Kanenan;Kore. Idro.;20/2/2006;149;88;25;-6;25;4:38;5;2
+71;Horis Epiklisi;Kore. Idro.;4/5/2009;122;49;35;-12;15;3:34;10;2
+72;Alli Mia Nihta Sighisis Ke Geliou;Kore. Idro.;20/2/2006;153;71;28;-6;13;5:23;3;5
+73;I Erastes Tou Tipota;Kore. Idro.;20/2/2006;148;75;44;-7;36;3:33;1;4
+74;Peri Pathous '05;Kore. Idro.;20/2/2006;122;65;46;-6;22;3:18;31;1
+75;Kamia Hristina;Kore. Idro.;20/2/2006;146;60;39;-6;13;3:54;20;3
+76;Breakfast In America;Supertramp;1/1/2005;75;69;57;-5;79;2:39;50;39
+77;Bedroom Eyes;Dum Dum Girls;27/9/2011;158;94;26;-4;39;3:55;0;38
+78;Xaplostres feretra;The Boy;20/6/2011;79;47;24;-11;18;5:31;39;2
+79;Kiria x alithia leo;The Boy;20/6/2011;167;48;26;-10;17;7:12;3;1
+80;Ime aftos;The Boy;6/5/2011;128;83;39;-7;41;4:46;1;1
+81;Nima;The Boy;6/5/2011;90;40;33;-10;4;4:11;56;0
+82;Dagomatia;The Boy;6/5/2011;137;19;34;-14;4;3:14;78;0
+83;Itan Ola Apofasismena;Kore. Idro.;4/5/2009;144;39;49;-11;25;5:38;33;2
+84;Apologismi;Kore. Idro.;4/5/2009;132;37;40;-12;34;4:20;71;1
+85;Pasha Sto Psihiatrio;Kore. Idro.;4/5/2009;120;15;48;-17;14;4:52;66;1
+86;Edo Milane Gia Latria;Kore. Idro.;4/5/2009;135;32;33;-13;27;4:28;62;2
+87;To Mono Eglima;Kore. Idro.;4/5/2009;140;16;40;-17;20;2:38;78;1
+88;Deftero Programma;Kore. Idro.;20/2/2006;136;31;45;-9;7;3:25;92;1
+89;P + M = K - M;Kore. Idro.;4/5/2009;148;29;48;-13;29;4:52;46;2
+90;Achilleas Kyriakidis;Larry Gus;4/2/2013;176;70;37;-10;53;3:07;8;14
+91;Yumeji's Theme - Theme from 'in the Mood for Love';Shigeru Umebayashi;20/5/2013;129;22;50;-11;24;2:31;95;48
+92;Symphony No. 7 in A Major, Op. 92: II. Allegretto;Ludwig van Beethoven;20/9/2013;134;7;26;-18;6;9:07;97;2
+93;Yes I Do;Monika;15/5/2010;135;25;49;-12;25;3:28;35;13
+94;Hurt;Christina Aguilera;7/11/2008;75;28;25;-7;11;4:04;77;53
+95;Le temps de l'amour (Remastered);Fran?oise Hardy;9/8/2011;131;41;58;-11;56;2:25;73;7
+96;Tous les gar?ons et les filles - Slow;Fran?oise Hardy;18/10/1993;108;41;72;-9;89;3:07;68;32
+97;Needles And Pins - Remastered;Ramones;22/9/1978;119;89;79;-6;93;2:22;1;43
+98;"I Panagia Ton Patision (Our Lady Of Patissia) - 2002 Digital Remaster;";Gianna Katsagiorgi;1964;89;12;37;-16;26;4:29;91;2
+99;All I Want Is You;Barry Louis Polisar;11/12/2007;181;41;56;-11;79;2:38;40;56
+100;Holiday (Remastered Album Version);Bee Gees;2/11/2009;105;27;38;-7;17;2:55;80;32
+101;Take Me Home, Country Roads;John Denver;17/6/1997;164;43;26;-13;54;3:18;55;65
+102;Le Vent Nous Portera;Noir D?sir;10/9/2001;105;72;67;-10;79;4:49;74;12
+103;Long Gone Lonesome Blues;Hank Williams;23/9/2013;121;23;74;-15;80;2:40;90;0
+104;M79 (Album);Vampire Weekend;27/1/2008;113;60;77;-7;95;4:16;14;48
+105;Mi Par d'Udir Ancora;Enrico Caruso;16/5/2011;68;22;31;-11;16;3:29;100;28
+106;A New Error;Moderat;11/5/2009;111;46;72;-11;10;6:07;3;59
+107;Salento;Ren? Aubry;9/10/1998;100;35;71;-12;40;5:45;89;42
+108;The Same Thing;Cass McCombs;7/11/2011;125;73;67;-10;68;6:13;26;22
+109;Without You;Harry Nilsson;28/4/2006;65;21;44;-14;12;3:22;56;59
+110;Helix;Justice;24/10/2011;117;86;66;-6;27;4:31;1;46
+111;Ballade No. 1 in G Minor, Op. 23;Makiko Takeda;1/4/2012;68;6;31;-25;5;9:14;99;25
+112;Inseguirsi;DeLord;11/3/2009;150;44;25;-10;9;4:25;96;8
+113;You Still Believe in Me - Mono;The Beach Boys;16/6/1966;178;31;25;-11;18;2:32;3;33
+114;Ta Isiha Vradia;Arleta Nikoleta Tsapra;14/3/1984;98;15;41;-19;20;3:50;82;6
+115;Emigrides Tis Roumanias - Rumania's Emmigrants;Kelly Saratsopoulou;28/5/2011;134;58;76;-17;96;4:56;38;2
+116;Markos - Marko;K.Bhta;28/5/2011;111;37;46;-17;37;4:08;1;2
+117;Oh Comely;Neutral Milk Hotel;1998;119;36;36;-6;13;8:18;75;37
+118;Sprawl I (Flatland);Arcade Fire;1/1/2010;96;35;31;-13;15;2:54;69;36
+119;Sprawl II (Mountains Beyond Mountains);Arcade Fire;1/1/2010;100;81;52;-6;20;5:18;2;46
+120;We Used To Wait;Arcade Fire;1/1/2010;121;65;57;-7;48;5:01;8;43
+121;Here Comes The Night Time;Arcade Fire;1/1/2013;95;64;45;-8;66;6:31;4;45
+122;The Look;Metronomy;8/4/2011;85;54;64;-8;51;4:38;62;63
+123;Una Mattina;Ludovico Einaudi;1/1/2004;131;3;23;-32;7;3:24;99;62
+124;Only Time - Original Version;Enya;1/12/2009;83;25;42;-14;22;3:39;84;59
+125;Little Talks;Of Monsters and Men;1/1/2012;103;79;47;-5;40;4:27;3;73
+126;Generation Sex;The Divine Comedy;31/8/1998;154;71;50;-7;52;3:31;26;32
+127;Tragoudi Me Anastrofo Minima;Kore. Õdro.;29/4/2013;125;26;35;-13;16;5:08;76;1
+128;O Dromos Mou Gia Sena;Kore. Õdro.;29/4/2013;143;33;34;-11;22;5:28;73;1
+129;Pote Den Imoun Monos Telika;Kore. Õdro.;29/4/2013;126;66;45;-9;14;3:35;61;2
+130;Outro;Your Hand In Mine;5/5/2008;82;33;28;-11;11;2:52;78;2
+131;At The Bar, Pt. 1;Your Hand In Mine;5/5/2008;98;37;61;-8;44;5:29;82;7
+132;Do the Living for Me;His Majesty the King of Spain;18/6/2012;97;62;60;-7;53;4:51;34;4
+133;The Moon Song - Studio Version Duet;Karen O;11/2/2014;162;12;44;-14;15;3:06;92;15
+134;King Park;La Dispute;2011;108;74;49;-7;16;6:55;4;37
+135;Our Mutual Friend;The Divine Comedy;26/1/2004;120;48;54;-8;57;5:59;81;43
+136;The Past Is A Grotesque Animal;of Montreal;23/1/2007;153;94;45;-5;39;11:53;10;38
+137;Mnimes '85;Ta Pedia Tis Paleotitas;2/6/2014;139;53;35;-8;37;2:32;29;0
+138;Musician, Please Take Heed;God Help The Girl;22/6/2009;148;49;33;-10;8;3:56;74;23
+139;Weight;Mikal Cronin;7/5/2013;153;78;25;-5;19;3:50;1;41
+140;The Masochism Tango;Tom Lehrer;1959;123;68;41;-10;62;3:35;91;0
+141;Falling Slowly;Glen Hansard;14/8/2007;137;21;34;-12;14;4:04;68;10
+142;Leaves In The River;Sea Wolf;2007;136;35;59;-15;49;5:00;86;0
+143;Love Story;Monsieur Minimal;4/11/2008;150;73;62;-7;59;3:33;17;33
+144;Going To A Town;Rufus Wainwright;1/1/2013;124;47;55;-7;18;4:07;67;44
+145;Commuter Love;The Divine Comedy;31/8/1998;88;34;38;-9;17;4:42;27;18
+146;Queen;Perfume Genius;22/9/2014;132;55;42;-5;13;3:51;21;54
+147;Just Like Christmas;Low;26/10/2004;184;83;41;-7;45;3:07;16;17
+148;In Dreams;Roy Orbison;1963;108;44;50;-10;71;2:49;67;6
+149;The Everlasting Muse;Belle & Sebastian;19/1/2015;132;63;49;-6;75;5:25;8;40
+150;Falling from Grace;The Gentle Waves;6/11/2000;140;49;51;-11;73;3:46;58;30
+151;We Rule the School;Belle & Sebastian;1996;122;25;40;-15;25;3:27;70;33
+152;Saint Simon;The Shins;21/10/2003;93;54;62;-6;43;4:25;12;45
+153;Reasonable Man (I Don't Mind);The National;20/7/2004;147;14;38;-16;9;5:22;85;32
+154;Canon in D;Johann Pachelbel;12/9/2014;96;24;14;-17;10;4:30;32;40
+155;Torturous;Turnerjoy;29/8/2002;147;41;25;-7;9;4:45;7;29
+156;I Meri;Pavlos Pavlidis;29/4/2013;144;48;58;-11;64;4:17;35;15
+157;Dress Up In You;Belle & Sebastian;2006;108;40;67;-8;48;4:24;53;36
+158;Archie, Marry Me;Alvvays;21/7/2014;117;83;27;-5;19;3:17;1;45
+159;Apopse Thelo Parea;The Boy;8/12/2014;171;22;55;-11;32;3:22;70;2
+160;Esthimaties;The Boy;8/12/2014;172;51;62;-10;54;3:37;4;0
+161;Expectations;Belle & Sebastian;1996;119;38;51;-13;46;3:34;56;43
+162;A Little Respect (Remastered 2009);Erasure;1988;114;78;61;-8;62;3:34;3;16
+163;Koustoumaki;The Boy;6/5/2011;124;45;51;-7;12;10:54;15;1
+164;Lost Property;The Divine Comedy;12/3/2001;144;65;36;-9;15;4:39;17;21
+165;The Stars of Track & Field;Belle & Sebastian;18/11/1996;121;32;44;-14;37;4:49;22;35
+166;Dog On Wheels;Belle & Sebastian;23/5/2005;90;47;55;-8;59;3:12;14;28
+167;Nobody's Empire;Belle & Sebastian;19/1/2015;124;81;57;-7;45;5:10;2;50
+168;Enter Sylvia Plath;Belle & Sebastian;19/1/2015;131;93;56;-6;57;6:49;1;39
+169;Woke From Dreaming;The Delgados;2002;150;36;36;-10;15;4:32;88;19
+170;Get Me Away from Here, I'm Dying;Belle & Sebastian;18/11/1996;80;62;54;-10;69;3:25;39;41
+171;The End;Reckless;18/6/2010;126;64;72;-7;64;3:23;48;5
+172;O Kathreftis;Fivos Delivorias;14/3/1984;116;58;62;-5;57;5:00;60;16
+173;To Kalokeri Tha Erthi;Fivos Delivorias;22/3/2007;76;33;56;-11;43;4:34;97;10
+174;The Crystal Lake;Grandaddy;1/1/2000;126;69;53;-7;18;5:00;0;32
+175;The Way;Fastball;10/3/1998;121;93;66;-6;69;4:17;16;56
+176;Jesus Wants Me For A Sunbeam;The Vaselines;5/5/2009;130;66;37;-7;48;3:30;79;35
+177;No One Said This Would Be Easy;The Postmarks;25/8/2009;135;92;59;-6;54;3:34;0;20
+178;You Must Be Out of Your Mind;The Magnetic Fields;2010;115;66;61;-4;47;3:12;56;38
+179;The Boxer;Simon & Garfunkel;26/1/1970;93;49;44;-14;62;5:09;70;64
+180;Chicago;Sufjan Stevens;5/7/2005;125;46;58;-10;43;6:05;59;59
+181;I'm Waking Up to Us;Belle & Sebastian;23/5/2005;135;59;57;-6;64;3:50;49;24
+182;Your Cover's Blown;Belle & Sebastian;21/6/2004;109;74;48;-6;39;6:02;7;32
+183;These Days;Nico;1/1/1967;93;13;41;-18;20;3:31;99;53
+184;Eida Tin Anna Kapote;Combo & Banta / Kouarteto Enchordon,Dionysis Savvopoulos,Fons Musicalis;16/5/2001;98;32;43;-13;18;3:41;72;5
+185;Blueberry Boat;The Fiery Furnaces;6/9/2004;139;57;36;-7;16;9:09;45;16
+186;Shuggie;Foxygen;22/1/2013;128;65;47;-8;71;3:22;10;50
+187;There's Too Much Love;Belle & Sebastian;5/6/2000;144;55;57;-8;87;3:27;42;45
+188;Fourth of July;Sufjan Stevens;31/3/2015;120;10;44;-22;15;4:39;97;56
+189;The Boy In The Picture;The Seahorses;1/1/1997;90;56;44;-9;18;2:53;0;25
+190;My Only Friend;The Magnetic Fields;1999;130;38;52;-12;38;2:01;97;19
+191;The Dark Is Rising;Mercury Rev;9/11/2001;135;26;35;-10;15;4:52;89;37
+192;Feel Like;Mikal Cronin;4/5/2015;137;71;25;-6;22;3:59;3;19
+193;Dont Look At the Light;Michael Giacchino;25/2/2011;105;11;22;-20;4;3:33;85;0
+194;Where Do You Go to (My Lovely);Peter Sarstedt;4/8/2008;175;44;41;-8;47;4:45;81;43
+195;To Galazio Tragoudi - Stin Epohi Tis Diahisis;Ta Pedia Tis Paleotitas;2/6/2014;132;67;28;-7;12;4:31;2;0
+196;Staring;Mary & The Boy;2/2/2009;75;34;22;-11;11;3:22;58;6
+197;Like A Friend;Pulp;30/3/1998;112;53;30;-9;34;4:31;3;39
+198;Have You Noticed?;Lolek;1/1/2009;95;55;59;-8;25;4:45;74;6
+199;Clown;Abbie Gale;2/1/2007;150;84;51;-5;66;4:09;0;4
+200;Walking With Thee;Clinic;18/2/2001;122;61;52;-6;38;2:37;0;24
+201;Weekend;Smith Westerns;22/4/2011;154;85;40;-4;82;3:23;0;28
+202;Mr. Blue Sky;Electric Light Orchestra;1977;178;34;39;-10;47;5:03;65;23
+203;This Is Just a Modern Rock Song;Belle & Sebastian;23/5/2005;93;37;30;-11;15;7:13;25;24
+204;Busby Berkeley Dreams;The Magnetic Fields;1999;95;25;56;-9;43;3:37;97;20
+205;Sons Of USSR;Micah P. Hinson;10/3/2014;80;40;27;-12;37;4:27;81;13
+206;Sloop John B - 1996 - Remaster;The Beach Boys;16/6/1966;126;75;57;-5;90;3:00;40;56
+207;90-Mile Water Wall;The National;2/9/2003;103;46;46;-8;11;3:44;82;33
+208;Rooks;Shearwater;3/6/2008;108;54;64;-8;38;3:21;41;31
+209;I've Been Loved;Mikal Cronin;4/5/2015;139;33;37;-10;8;3:44;69;20
+210;One Way Trigger;The Strokes;22/3/2013;96;94;52;-4;96;4:02;0;57
+211;Let's Pretend We're Bunny Rabbits;The Magnetic Fields;1999;125;68;45;-6;46;2:25;39;24
+212;You Don't Own Me;Lesley Gore;10/3/2014;96;42;35;-6;37;2:33;24;39
+213;Stay Loose;Belle & Sebastian;6/10/2003;130;56;72;-7;63;6:42;6;29
+214;The Hopeless Opus Or The Great Battle Of The Unfriendly Ridiculous;of Montreal;1/4/2001;142;32;38;-12;23;17:56;96;4
+215;Piss Crowns Are Trebled;Godspeed You! Black Emperor;27/3/2015;132;79;16;-7;6;13:50;2;32
+216;David Bowie's Son;His Majesty the King of Spain;18/6/2012;108;59;56;-7;69;2:48;14;0
+217;Friends Of Mine;Adam Green;23/6/2003;119;64;63;-6;74;2:50;7;39
+218;Runaway;Del Shannon;24/9/2007;150;79;53;-2;85;2:19;68;48
+219;Intervention;Arcade Fire;2007;121;70;37;-7;25;4:19;3;44
+220;Break My Heart And Mend It;Hero Fisher;3/6/2015;144;34;28;-9;10;5:42;6;4
+221;The Night Josh Tillman Came To Our Apt.;Father John Misty;9/2/2015;99;63;60;-6;66;3:36;28;51
+222;Rebellion (Lies);Arcade Fire;2004;127;93;40;-6;73;5:11;1;54
+223;Jonathan David;Belle & Sebastian;23/5/2005;152;78;44;-6;87;3:00;36;25
+224;Dromi Palii;Margarita Zorbala;2000;93;29;33;-9;43;5:00;82;1
+225;To Kafeneio;Arleta;3/7/2008;117;31;68;-9;61;2:43;84;1
+226;Shipwreckers;James Yorkston and the Athletes;2004;91;77;41;-8;41;3:03;18;0
+227;Holy Shit;Father John Misty;9/2/2015;131;49;53;-6;31;4:01;80;44
+228;I Ipote Pote Pote;Nikos Kypourgos;2012;127;33;59;-12;69;1:53;74;2
+229;O Xerolas;Nikos Kypourgos;2012;78;37;34;-11;28;2:02;75;1
+230;Ti Nea Psipsina;Lena Platonos;12/11/2007;131;70;67;-8;74;3:44;1;9
+231;Street Spirit (Fade Out);Radiohead;1/11/1994;138;45;49;-12;13;4:14;31;10
+232;Piledriver waltz;Alex Turner;14/3/2011;106;75;53;-8;34;3:25;12;52
+233;Life On Mars? - 1999 Remastered Version;David Bowie;17/12/1971;121;59;44;-8;36;3:43;53;52
+234;Does He Love You?;Rilo Kiley;27/7/2004;79;61;32;-6;29;5:13;6;38
+235;Daydreaming;Dark Dark Dark;7/3/2011;140;25;55;-12;20;4:48;94;45
+236;Flowers In December;Mazzy Star;17/10/1996;97;23;59;-13;16;4:58;12;45
+237;The Windmills Of Your Mind;Dusty Springfield;31/3/1969;76;20;31;-14;22;3:48;73;39
+238;Oh Mandy;The Spinto Band;20/2/2006;137;96;51;-4;57;3:35;5;39
+239;Normal Person;Arcade Fire;1/1/2013;117;73;40;-5;33;4:22;2;43
+240;Paul Is Alive;EL VY;7/10/2015;94;55;39;-7;64;3:31;6;29
+241;Road To Nowhere - 2005 Remastered Version;Talking Heads;10/7/1985;110;81;65;-5;60;4:27;3;52
+242;Little Man Blues;His Majesty the King of Spain;18/6/2012;141;15;50;-12;28;2:14;97;0
+243;Vapour Trail;Ride;1990;108;80;43;-6;42;4:18;0;45
+244;The Red Telephone;Love;1/11/1967;110;39;47;-14;9;4:46;57;34
+245;A Better Son/Daughter;Rilo Kiley;1/10/2002;114;42;48;-11;5;4:39;7;45
+246;The Blues Are Still Blue;Belle & Sebastian;2006;120;83;74;-5;93;4:09;25;37
+247;Wandering Eye;Ed Harcourt;25/2/2013;64;38;28;-9;13;4:31;95;19
+248;Little Lou, Ugly Jack, Prophet John;Belle & Sebastian;8/10/2010;147;40;56;-11;28;4:34;45;43
+249;Lazy Line Painter Jane;Belle & Sebastian;23/5/2005;125;74;34;-6;26;5:50;11;38
+250;Marvin Gaye (feat. Meghan Trainor);Charlie Puth;1/5/2015;110;62;80;-5;82;3:10;42;76
+251;Airport;The Motors;1995;137;53;50;-10;60;4:36;32;40
+252;Tha 'thela Na 'mouna Eki;Fivos Delivorias;28/2/2013;111;32;49;-15;33;2:43;71;10
+253;I Bosa Nova Tou Isaia;Fivos Delivorias;14/3/1984;136;46;63;-16;79;4:32;59;20
+254;The Golden Throne;Temples;2013;118;81;49;-6;10;4:11;0;44
+255;GMF;John Grant;11/3/2013;142;47;47;-9;36;5:14;24;48
+256;With Arms Outstretched;Rilo Kiley;1/10/2002;108;47;50;-7;18;3:43;54;46
+257;Vradi;Savina Yannatou;5/11/2007;108;13;36;-17;16;3:09;89;6
+258;Athanasia;Margarita Zorbala;21/4/2008;82;24;47;-12;30;3:03;94;4
+259;The Man Who Sold The World - 2015 Remastered Version;David Bowie;25/9/2015;118;39;47;-14;53;4:01;64;39
+260;All of Me;John Legend;30/8/2013;120;26;42;-7;33;4:30;92;82
+261;Climbing Up The Walls;Radiohead;21/5/1997;79;66;17;-7;21;4:45;10;10
+262;The Luckiest Guy On The Lower East Side;The Magnetic Fields;1999;79;86;49;-6;45;3:43;30;34
+263;Your Arms Around Me;Jens Lekman;9/10/2007;106;60;41;-7;28;5:03;4;46
+264;Lost Coastlines;Okkervil River;9/9/2008;110;78;53;-5;71;5:32;4;47
+265;Step Into My Office, Baby;Belle & Sebastian;6/10/2003;135;54;54;-9;53;4:12;36;38
+266;Fits & Starts;The Decemberists;9/10/2015;153;94;33;-5;81;2:41;8;12
+267;I Have Been Floated;The Olivia Tremor Control;1999;76;43;27;-12;24;3:40;16;5
+268;In My Life - Remastered 2009;The Beatles;3/12/1965;103;44;69;-11;41;2:26;45;64
+269;Street Hassle;Lou Reed;1/2/1978;131;12;60;-20;22;10:53;95;42
+270;No Comprende;Low;11/9/2015;74;30;65;-6;23;4:59;21;45
+271;Pretty Eve in the Tub;God Help The Girl;22/6/2009;86;9;35;-15;44;2:44;96;20
+272;All The Old Showstoppers;The New Pornographers;21/8/2007;185;74;54;-7;71;4:08;35;30
+273;The Start Of Something;Voxtrot;1/1/2005;107;73;63;-7;70;4:32;18;53
+274;Siopi;Xilina Spathia;16/9/2013;99;11;45;-19;6;3:59;87;17
+275;Fotia Sto Limani;Xilina Spathia;2005;100;37;53;-10;3;4:58;3;20
+276;This Is The Last Time;The National;27/5/2013;140;50;50;-10;14;4:43;64;59
+277;Human Sadness;Julian Casablancas+The Voidz;23/9/2014;122;76;23;-5;13;10:57;22;51
+278;En Lefko;Gerasimos Evangelatos;1/3/2008;138;26;52;-10;6;3:55;71;25
+279;Big Bird;AJJ;20/9/2011;112;45;30;-8;23;5:22;16;34
+280;O Tahydromos Pethane;Savina Yannatou;11/9/2007;130;28;35;-10;38;4:07;87;7
+281;Dedication;Savina Yannatou;8/1/2008;144;20;31;-13;32;2:55;95;2
+282;Mary;Carte Postale;15/4/2014;126;62;63;-8;48;4:23;21;3
+283;Standing Next To Me;The Last Shadow Puppets;9/6/2008;184;93;31;-6;74;2:18;0;19
+284;Vagabond;Beirut;30/8/2011;80;65;46;-8;78;3:19;46;46
+285;Washer;Slint;15/3/1991;111;10;45;-24;4;8:50;38;36
+286;Wayfaring Stranger;Johnny Cash;1/1/2000;119;28;42;-10;35;3:20;91;34
+287;Travelling Light;Tindersticks;1/1/1995;112;24;50;-18;28;4:52;51;31
+288;Between The Bars;Elliott Smith;25/2/1997;135;7;53;-23;35;2:21;93;59
+289;This Year;The Mountain Goats;2/5/2005;139;72;70;-9;82;3:53;12;52
+290;Space Dementia;Muse;2001;171;72;17;-7;7;6:21;2;47
+291;Starman - 2012 Remastered Version;David Bowie;6/6/1972;100;46;48;-10;54;4:14;15;68
+292;Moonage Daydream - 2012 Remastered Version;David Bowie;6/6/1972;144;61;56;-11;74;4:41;4;46
+293;The Ballad Of Me & My Friends;Frank Turner;2007;135;37;49;-9;26;2:33;80;0
+294;Tha Me Dikasei;Sotiria Bellou;26/2/2008;115;43;35;-8;17;3:30;89;1
+295;Venus In Furs;The Velvet Underground;12/3/1967;72;64;33;-10;59;5:12;0;48
+296;Your Ex-Lover Is Dead;Stars;16/4/2013;153;51;37;-7;34;4:16;0;33
+297;Ruled By Secrecy;Muse;23/3/2004;148;23;40;-13;4;4:52;80;47
+298;Your Best American Girl;Mitski;2/3/2016;78;26;33;-10;12;3:32;2;48
+299;Two;The Antlers;26/10/2009;110;51;56;-10;13;5:56;33;21
+300;You Should All Be Murdered;Another Sunny Day;1/1/1993;159;91;42;-9;94;4:38;0;36
+301;White Rabbit;Jefferson Airplane;1967;107;29;55;-13;30;2:31;49;63
+302;Spinning Away;John Cale;2008;115;87;56;-4;70;5:26;24;36
+303;The Breeze;Dr. Dog;22/7/2008;90;54;61;-8;30;3:59;76;53
+304;Paris 1919;John Cale;1973;107;32;74;-14;60;4:07;96;34
+305;Sleep Forever;Portugal. The Man;29/6/2011;145;47;51;-8;30;6:21;37;54
+306;I Love You Like A Madman;The Wave Pictures;2008;129;67;68;-3;73;3:03;29;33
+307;Orange Juice;Stanley Brinks and The Wave Pictures;20/1/2014;117;72;73;-5;80;3:20;24;45
+308;Girl - Remastered 2009;The Beatles;3/12/1965;97;29;70;-13;89;2:32;59;51
+309;In The Backseat;Arcade Fire;2004;85;54;43;-10;23;6:20;47;39
+310;Child Psychology;Black Box Recorder;6/7/1998;161;39;35;-12;16;4:08;13;36
+311;Drug;The Czars;2001;110;25;50;-16;31;4:10;78;32
+312;Ela Ilie Mou;Poll;1971;102;44;38;-14;54;3:24;71;5
+313;Anthrope Agapa;Poll;1971;95;18;49;-15;34;3:26;82;3
+314;Fistful Of Love;Antony and the Johnsons;2005;83;49;35;-8;29;5:52;54;47
+315;Maria And The Violin's String;Ashram;2006;147;25;36;-11;14;2:59;98;28
+316;Wasted State Of Mind;...And You Will Know Us by the Trail of Dead;14/11/2006;166;81;47;-3;40;5:26;29;22
+317;Let Me Back In;Rilo Kiley;6/8/2013;120;31;48;-10;39;4:23;41;38
+318;The Beauty Regime;The Divine Comedy;12/3/2001;139;25;29;-12;12;5:11;65;17
+319;(David Bowie I Love You) Since I Was Six;The Brian Jonestown Massacre;9/6/2008;116;65;20;-7;33;3:24;0;40
+320;Aira (The Clown Girl);Melentini;18/2/2013;142;44;57;-8;23;5:18;92;8
+321;Abyss;Melentini;18/2/2013;174;27;24;-13;15;3:47;98;4
