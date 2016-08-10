@@ -10,8 +10,9 @@ To run you should set up the usual sci-Python gang: Matplotlib, Numpy, Pandas, S
 1. Log in to [Echonest app](http://static.echonest.com/SortYourMusic/) and choose your playlist.
 2. Copy the table to a spreadsheet.
 3. Save it as csv.
-4. Run ``spotify_favorites.py`` to find correlations and estimate t-SNE and SVM.
-5. Run ``today_top_hits.py`` to compare step's 4. data with today top hits.
+4. Run ``spotify_favorites.py`` to find correlations and estimate t-SNE and SVM
+5. Comment out [line 196](https://github.com/sdimi/spotifav/blob/master/spotify_favorites.py#L196) to draw a projection of a specific artist.
+6. Run ``today_top_hits.py`` to compare step's 4. data with today top hits.
 
 As an alternative, you can query your playlists through the [Spotify API](https://developer.spotify.com/web-api/get-audio-features/), getting access to even more features. Let me know how did that go.
 
