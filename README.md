@@ -6,6 +6,15 @@ This repository contains the necessary code, data, and Jupyter Notebooks to esti
 
 To run you should set up the usual sci-Python gang: Matplotlib, Numpy, Pandas, Seaborn and Sklearn. 
 
+###Steps
+1. Log in to [Echonest app](http://static.echonest.com/SortYourMusic/) and choose your playlist.
+2. Copy the table to a spreadsheet.
+3. Save it as csv.
+4. Run ``spotify_favorites.py`` to find correlations and estimate t-SNE and SVM.
+5. Run ``today_top_hits.py`` to compare step's 4. data with today top hits.
+
+As an alternative, you can query your playlists through the [Spotify API](https://developer.spotify.com/web-api/get-audio-features/), getting access to even more features. Let me know how did that go.
+
 ###Histograms & Correlations
 
 | Histograms of my playlist's features | Compared to the most popular Spotify playlist |
