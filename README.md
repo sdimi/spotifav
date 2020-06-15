@@ -15,7 +15,7 @@ To run you should set up the usual sci-Python gang: Matplotlib, Numpy, Pandas, S
 
 To replicate the artist-level projections as seen in my essay, please comment out [line 196](https://github.com/sdimi/spotifav/blob/master/spotify_favorites.py#L196).
 
-As an alternative to the Echonest app, you can query your directly playlists through the [Spotify API](https://developer.spotify.com/web-api/get-audio-features/), getting access to even more features. Let me know how it went!
+As an alternative to the Echonest app, you can query your playlists directly through the [Spotify API](https://developer.spotify.com/web-api/get-audio-features/), getting access to even more features. Let me know how it went!
 
 ### Histograms & Correlations
 
