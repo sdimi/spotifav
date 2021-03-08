@@ -1,5 +1,5 @@
 ## spotifav
-#### Relevant blog post: [medium.com/p/fe50c94b8af3](https://medium.com/p/fe50c94b8af3)
+#### Accompanying blog post: [medium.com/p/fe50c94b8af3](https://medium.com/p/fe50c94b8af3)
 After I found out that I have access to some interesting features (danceability, loudness etc) on my Spotify playlists, I decided to crunch some numbers in order to discover patterns on my favorite songs. For reality check, I compared my songs with the [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M) playlist, leading to some fun observations. You can get the aforementioned features for your playlists by this clever [Echonest app](http://sortyourmusic.playlistmachinery.com/).
 
 This repository contains the necessary code, data, and Jupyter Notebooks to estimate histograms, correlation heatmaps, dimensionality reduction and visualization with t-SNE and outlier detection with One-Class SVM visualized in contour plots. 
