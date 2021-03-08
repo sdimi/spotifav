@@ -1,13 +1,13 @@
 ## spotifav
 #### Relevant blog post: [medium.com/p/fe50c94b8af3](https://medium.com/p/fe50c94b8af3)
-After I found out that I have access to some interesting features (danceability, loudness etc) on my Spotify playlists, I decided to crunch some numbers in order to discover patterns on my favorite songs. For reality check, I compared my songs with the [Today's Top Hits](https://open.spotify.com/user/spotify/playlist/5FJXhjdILmRA2z5bvz4nzf) playlist, leading to some fun observations. You can get the aforementioned features for your playlists by this clever [Echonest app](http://static.echonest.com/SortYourMusic/).
+After I found out that I have access to some interesting features (danceability, loudness etc) on my Spotify playlists, I decided to crunch some numbers in order to discover patterns on my favorite songs. For reality check, I compared my songs with the [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M) playlist, leading to some fun observations. You can get the aforementioned features for your playlists by this clever [Echonest app](http://sortyourmusic.playlistmachinery.com/).
 
 This repository contains the necessary code, data, and Jupyter Notebooks to estimate histograms, correlation heatmaps, dimensionality reduction and visualization with t-SNE and outlier detection with One-Class SVM visualized in contour plots. 
 
 To run you should set up the usual sci-Python gang: Matplotlib, Numpy, Pandas, Seaborn and Sklearn. 
 
 ### Steps
-1. Log in to [Echonest app](http://static.echonest.com/SortYourMusic/) and choose your playlist.
+1. Log in to [Echonest app](http://sortyourmusic.playlistmachinery.com/) and choose your playlist.
 2. Copy the table to a spreadsheet.
 3. Save it as csv.
 4. Run ``spotify_favorites.py`` to find correlations and estimate t-SNE and SVM
